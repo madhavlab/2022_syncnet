@@ -1,5 +1,5 @@
 <!-- # INTERSPEECH' 22 -->
-# [SyncNet: Using Correlating Objective and Causal Convolutions for Real-time Interaural Time Delay Estimation in Audio Signals](https://arxiv.org/abs/2203.14639)
+# [SyncNet: Using Causal Convolutions and Correlating Objective for Time Delay Estimation in Audio Signals](https://arxiv.org/abs/2203.14639)
 ### Authors: [Akshay Raina](https://raina-akshay.github.io) and [Vipul Arora](https://vipular.github.io)
 
 <details>
