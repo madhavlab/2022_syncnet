@@ -13,16 +13,11 @@ This repository consists of the supplementary material and implementation (using
 
 ### Citation
 ```BibTeX
-
-@misc{https://doi.org/10.48550/arxiv.2203.14639,
-  doi = {10.48550/ARXIV.2203.14639},
-  url = {https://arxiv.org/abs/2203.14639},
-  author = {Raina, Akshay and Arora, Vipul},
-  keywords = {Audio and Speech Processing (eess.AS), Signal Processing (eess.SP), FOS: Electrical engineering, electronic engineering, information engineering, FOS: Electrical engineering, electronic engineering, information engineering},
-  title = {SyncNet: Using Causal Convolutions and Correlating Objective for Time Delay Estimation in Audio Signals},
-  publisher = {arXiv},
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
+@article{raina2022syncnet,
+  title={SyncNet: Using Causal Convolutions and Correlating Objective for Time Delay Estimation in Audio Signals},
+  author={Raina, Akshay and Arora, Vipul},
+  journal={arXiv preprint arXiv:2203.14639},
+  year={2022}
 }
 ```
 
