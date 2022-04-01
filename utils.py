@@ -7,9 +7,6 @@ import torch.nn.functional as F
 from scipy.stats import norm
 import os
 import glob
-torch.autograd.set_detect_anomaly(False)
-torch.autograd.profiler.profile(False)
-torch.autograd.profiler.emit_nvtx(False)
 
 class synthetic_data:
   '''
